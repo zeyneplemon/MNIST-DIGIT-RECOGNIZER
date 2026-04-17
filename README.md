@@ -3,7 +3,8 @@ A real-time handwritten digit recognizer app built with a Convolutional Neural N
 
 Draw any digit (0-9) on the canvas on the left and the model will predict it instantly!
 
-<img width="800" height="431" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/10d0c816-b4d6-4618-985a-d1f67f209573" />
+<img width="800" height="431" alt="ezgif com-video-to-gif-converter-2" src="https://github.com/user-attachments/assets/5ab90fdd-f022-4f7e-ba45-f5a7b1f06bd5" />
+
 
 ---
 
